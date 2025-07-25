@@ -57,15 +57,6 @@ The script performs the following steps:
     *   Compiles and trains this new model using the CIFAR-10 data (with data augmentation).
     *   Evaluates the performance of the transfer learning model.
 
-## How to Run
-
-1.  **Ensure Prerequisites:** Make sure you have Python and all the libraries listed in the "Prerequisites and Dependencies" section installed.
-2.  **Download the Script:** Save the Python script (`gdsc_ml.py`) to your local machine.
-3.  **Execute from Terminal:** Open a terminal or command prompt, navigate to the directory where you saved the script, and run it using:
-    ```bash
-    python gdsc_ml.py
-    ```
-    The script will start by downloading the CIFAR-10 dataset (if not already present), then proceed with model training and evaluation. The progress will be printed to the console.
 
 ## About the CIFAR-10 Dataset
 
